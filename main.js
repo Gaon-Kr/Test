@@ -1,8 +1,8 @@
 console.log('Hello, World');
 alert('어서오세요');
 
-name="Mike";
-age=30;
+name="김주원";
+age=16;
 
 alert(name);
-console.log(age);
+alert(age);
